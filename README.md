@@ -1,16 +1,15 @@
-## Hi there 👋
+## bem vindo ao meu perfil 🏎️
 
-<!--
-**Mathias2309/Mathias2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Mathias Alves
 
-Here are some ideas to get you started:
+- Estou estudando no alura
+- Estou me desenvolvendo no javaScript
+- Utilizo esse espaço para compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato cmg 📫
+
+00001114040320sp@al.educacao.sp.gov.br
+
+
+
+![](https://media1.tenor.com/m/VGnIKs24lbIAAAAC/bryan-gif.gif)
